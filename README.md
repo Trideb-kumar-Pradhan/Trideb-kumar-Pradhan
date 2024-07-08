@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm an SQA Engineer currently working at NVIDIA. I
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Trideb Kumar Pradhan 👋
 
-![Profile views](https://gpvc.arturio.dev/[your-username])
+
 
 ## About Me
 
