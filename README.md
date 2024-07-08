@@ -1,8 +1,5 @@
 # Hello, I'm Trideb Kumar Pradhan 👋
 
-
-## About Me
-
 I'm a dedicated full stack developer with extensive experience in building dynamic web applications using modern technologies. I have a strong background in both front-end and back-end development, allowing me to create seamless and efficient user experiences.
 
 - 🔭 I'm an Frontend Developer currently working at ALOK INDUSTRIES SILVASSA.
@@ -109,6 +106,7 @@ QTrip is a travel website for adventurers looking for various city adventures.
 
 
 ## 📫 Connect with Me
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/trideb-kumar-pradhan-619663231)
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://www.crio.do/learn/portfolio/tridebkumarp/?edit=true)
