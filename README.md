@@ -32,6 +32,7 @@ I'm a dedicated full stack developer with extensive experience in building dynam
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
