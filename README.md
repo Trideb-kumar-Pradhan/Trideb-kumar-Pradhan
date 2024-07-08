@@ -3,7 +3,6 @@
 Hi there, I'm Trideb kumar Pradhan 👋
 Welcome to my GitHub profile! I'm an SQA Engineer currently working at NVIDIA. I am a passionate full-stack software engineer from India and I have built many industry-grade projects from scratch and am armed with a wide range of technological skills useful for tech projects. Check out my projects below. 🙂
 
-🚀 Skills Acquired
 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,18 +36,12 @@ I'm a dedicated full stack developer with extensive experience in building dynam
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-
 ### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
-
 ### DevOps
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
