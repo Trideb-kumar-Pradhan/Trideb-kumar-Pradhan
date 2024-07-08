@@ -4,6 +4,8 @@ Hi there, I'm Trideb kumar Pradhan 👋
 Welcome to my GitHub profile! I'm an SQA Engineer currently working at NVIDIA. I am a passionate full-stack software engineer from India and I have built many industry-grade projects from scratch and am armed with a wide range of technological skills useful for tech projects. Check out my projects below. 🙂
 
 🚀 Skills Acquired
+
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 Languages and Frameworks
 JavaScript: Proficient in modern ES6+ features.
 HTML & CSS: Strong understanding of semantic HTML and modern CSS techniques.
