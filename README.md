@@ -50,22 +50,71 @@ I'm a dedicated full stack developer with extensive experience in building dynam
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark)](https://github.com/[your-username])
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=dark)](https://github.com/[your-username])
 
-## 🛠️ Projects
+## 📚 My Projects
 
-### [Project 1 Name]
-**Description:** [Brief Description of Project 1]
-- **Technologies:** [Technologies Used in Project 1]
-- **Link:** [Link to Project 1](URL)
+### QKart Backend
+**Jan 2024**
 
-### [Project 2 Name]
-**Description:** [Brief Description of Project 2]
-- **Technologies:** [Technologies Used in Project 2]
-- **Link:** [Link to Project 2](URL)
+QKart is an E-commerce application offering a variety of products for customers to choose from.
 
-### [Project 3 Name]
-**Description:** [Brief Description of Project 3]
-- **Technologies:** [Technologies Used in Project 3]
-- **Link:** [Link to Project 3](URL)
+- Developed REST APIs following best practices
+- Utilized MongoDB for data storage
+- Implemented unit and integration tests
+
+**Technologies Used:** Mongoose ODM, JOI, Postman, REST, ES6, Express.js, Node.js, MongoDB, JWT, Jest, Heroku, Netlify, MongoDB Atlas
+
+---
+
+### QKart Frontend
+**Jun 2023**
+
+QKart is an E-commerce application offering a variety of products for customers to choose from.
+
+- Implemented authentication, shopping cart, and checkout logic
+- Enhanced UI with responsive design
+- Integrated REST APIs for dynamic data loading
+
+**Technologies Used:** React Hooks, REST, Material UI, localStorage, Netlify
+
+---
+
+### XBoard
+**Apr 2023**
+
+XBoard is a news feed website featuring the latest news from Flipboard.
+
+- Built using HTML, CSS, Bootstrap, and JavaScript
+- Improved UI with Accordions and Image Carousel
+- Fetched news content from Flipboard's RSS feed via REST API
+
+**Technologies Used:** HTML, CSS, Bootstrap, JavaScript, Netlify
+
+---
+
+### QTripDynamic
+**Mar 2023**
+
+QTrip is a travel website for adventurers looking for various city adventures.
+
+- Created dynamic web pages with HTML, CSS, and JavaScript
+- Enhanced UX with multi-select filters and image carousels
+- Used localStorage for client-side data persistence
+
+**Technologies Used:** HTML, CSS, JavaScript, Bootstrap, Netlify, Heroku
+
+---
+
+### QTripStatic
+**Feb - Mar 2023**
+
+QTrip is a travel website for adventurers looking for various city adventures.
+
+- Developed web pages from wireframe layouts using HTML and CSS
+- Utilized Bootstrap for responsive design
+- Deployed the website to Netlify/Vercel
+
+**Technologies Used:** HTML, CSS, Bootstrap, Netlify
+
 
 ## 📝 Blog Posts
 
