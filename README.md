@@ -6,14 +6,47 @@ Welcome to my GitHub profile! I'm an SQA Engineer currently working at NVIDIA. I
 🚀 Skills Acquired
 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+# Hi there, I'm [Your Name]! 👋
+
+![Profile views](https://gpvc.arturio.dev/[your-username])
+
+## About Me
+
+I'm a passionate front-end developer with a focus on building web applications using Node.js, React, and MySQL. I love solving problems and learning new technologies.
+
+- 🔭 I’m currently working on [Your Current Project]
+- 🌱 I’m currently learning [Technology or Skill You're Learning]
+- 👯 I’m looking to collaborate on [Your Collaboration Interests]
+- 💬 Ask me about [Your Expertise or Interests]
+- 📫 How to reach me: [Your Email]
+- ⚡ Fun fact: [Something Interesting About You]
+
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+## 📈 GitHub Stats
+
+
+
+
+
+
+
+
 
 Languages and Frameworks
 JavaScript: Proficient in modern ES6+ features.
