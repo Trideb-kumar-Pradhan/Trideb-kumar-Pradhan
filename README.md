@@ -14,16 +14,16 @@ Welcome to my GitHub profile! I'm an SQA Engineer currently working at NVIDIA. I
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# Hi there, I'm [Your Name]! 👋
+# Hello, I'm [Your Name] 👋
 
 ![Profile views](https://gpvc.arturio.dev/[your-username])
 
 ## About Me
 
-I'm a passionate front-end developer with a focus on building web applications using Node.js, React, and MySQL. I love solving problems and learning new technologies.
+I'm a dedicated full stack developer with extensive experience in building dynamic web applications using modern technologies. I have a strong background in both front-end and back-end development, allowing me to create seamless and efficient user experiences.
 
 - 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technology or Skill You're Learning]
+- 🌱 I’m currently expanding my knowledge in [Technology or Skill You're Learning]
 - 👯 I’m looking to collaborate on [Your Collaboration Interests]
 - 💬 Ask me about [Your Expertise or Interests]
 - 📫 How to reach me: [Your Email]
@@ -31,15 +31,64 @@ I'm a passionate front-end developer with a focus on building web applications u
 
 ## 🔧 Technologies & Tools
 
+### Front-End
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ## 📈 GitHub Stats
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=dark)](https://github.com/[your-username])
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=dark)](https://github.com/[your-username])
+
+## 🛠️ Projects
+
+### [Project 1 Name]
+**Description:** [Brief Description of Project 1]
+- **Technologies:** [Technologies Used in Project 1]
+- **Link:** [Link to Project 1](URL)
+
+### [Project 2 Name]
+**Description:** [Brief Description of Project 2]
+- **Technologies:** [Technologies Used in Project 2]
+- **Link:** [Link to Project 2](URL)
+
+### [Project 3 Name]
+**Description:** [Brief Description of Project 3]
+- **Technologies:** [Technologies Used in Project 3]
+- **Link:** [Link to Project 3](URL)
+
+## 📝 Blog Posts
+
+- [Title of Blog Post 1](URL)
+- [Title of Blog Post 2](URL)
+- [Title of Blog Post 3](URL)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/[your-linkedin-username]/)
+[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/[your-twitter-username])
+[![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome&logoColor=white)](https://[your-website-url]/)
+
+---
+
+*This README was generated with ❤️ by [your-username](https://github.com/[your-username])*
 
 
 
@@ -48,79 +97,5 @@ I'm a passionate front-end developer with a focus on building web applications u
 
 
 
-Languages and Frameworks
-JavaScript: Proficient in modern ES6+ features.
-HTML & CSS: Strong understanding of semantic HTML and modern CSS techniques.
-React: Experienced in building dynamic user interfaces with React, including the use of Hooks, State Management, and React Router.
-Node.js & Express.js: Skilled in backend development, building RESTful APIs, and middleware integration.
-Databases
-MongoDB: Proficient in using MongoDB for data storage, including Mongoose ODM for data modeling and queries.
-Tools and Technologies
-Git & GitHub: Version control and collaboration using Git and GitHub.
-REST APIs: Designing and consuming RESTful services.
-JSON: Data interchange format for APIs.
-JWT & Token Authentication: Implementing secure authentication mechanisms.
-Postman: API testing and development.
-Jest: Unit and integration testing framework.
-Bootstrap: Building responsive designs and layouts.
-Material UI: UI component library for React.
-DevOps and Deployment
-Heroku: Application deployment and management.
-Netlify: Deploying static websites and serverless functions.
-MongoDB Atlas: Managed cloud database service.
-Linux: Basic proficiency in using Linux for development.
-Development Practices
-Test-Driven Development (TDD): Writing tests before code to ensure reliability and correctness.
-Agile Methodologies: Working in an agile environment, adapting to changes, and delivering incremental value.
-These skills reflect my comprehensive ability to develop, test, and deploy full-stack applications, ensuring both functionality and quality.
 
-📚 My Projects
-QKart Backend
-Jan 2024
 
-QKart is an E-commerce application offering a variety of products for customers to choose from.
-
-Developed REST APIs following best practices
-Utilized MongoDB for data storage
-Implemented unit and integration tests
-Technologies Used: Mongoose ODM, JOI, Postman, REST, ES6, Express.js, Node.js, MongoDB, JWT, Jest, Heroku, Netlify, MongoDB Atlas
-
-QKart Frontend
-Jun 2023
-
-QKart is an E-commerce application offering a variety of products for customers to choose from.
-
-Implemented authentication, shopping cart, and checkout logic
-Enhanced UI with responsive design
-Integrated REST APIs for dynamic data loading
-Technologies Used: React Hooks, REST, Material UI, localStorage, Netlify
-
-XBoard
-Apr 2023
-
-XBoard is a news feed website featuring the latest news from Flipboard.
-
-Built using HTML, CSS, Bootstrap, and JavaScript
-Improved UI with Accordions and Image Carousel
-Fetched news content from Flipboard's RSS feed via REST API
-Technologies Used: HTML, CSS, Bootstrap, JavaScript, Netlify
-
-QTripDynamic
-Mar 2023
-
-QTrip is a travel website for adventurers looking for various city adventures.
-
-Created dynamic web pages with HTML, CSS, and JavaScript
-Enhanced UX with multi-select filters and image carousels
-Used localStorage for client-side data persistence
-Technologies Used: HTML, CSS, JavaScript, Bootstrap, Netlify, Heroku
-
-QTripStatic
-Feb - Mar 2023
-
-QTrip is a travel website for adventurers looking for various city adventures.
-
-Developed web pages from wireframe layouts using HTML and CSS
-Utilized Bootstrap for responsive design
-Deployed the website to Netlify/Vercel
-Technologies Used: HTML, CSS, Bootstrap, Netlify
