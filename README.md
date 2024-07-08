@@ -129,13 +129,11 @@ QTrip is a travel website for adventurers looking for various city adventures.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/[your-linkedin-username]/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/trideb-kumar-pradhan-619663231)
 [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/[your-twitter-username])
 [![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome&logoColor=white)](https://[your-website-url]/)
 
----
 
-*This README was generated with ❤️ by [your-username](https://github.com/[your-username])*
 
 
 
