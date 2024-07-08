@@ -7,7 +7,7 @@ I'm a dedicated full stack developer with extensive experience in building dynam
 
 ## 🔧 Technical Skill
 
-### Front-End
+### Front-End Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
@@ -15,13 +15,13 @@ I'm a dedicated full stack developer with extensive experience in building dynam
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&labelColor=black)
 
 
-### Back-End
+### Back-End Development
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 
-### DevOps
+### DevOps and Deployment
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)
@@ -50,12 +50,12 @@ QKart is an E-commerce application offering a variety of products for customers 
 - Utilized MongoDB for data storage
 - Implemented unit and integration tests
 
-**Technologies Used:** Mongoose ODM, JOI, Postman, REST, ES6, Express.js, Node.js, MongoDB, JWT, Jest, Heroku, Netlify, MongoDB Atlas
+**Technologies Used:** Mongoose ODM, JOI, Postman, REST, ES6, Express.js, Node.js, MongoDB, JWT, Jest,  Netlify, MongoDB Atlas
 
 ---
 
 ### QKart Frontend
-**Jun 2023**
+**Sept 2023**
 
 QKart is an E-commerce application offering a variety of products for customers to choose from.
 
@@ -63,12 +63,12 @@ QKart is an E-commerce application offering a variety of products for customers 
 - Enhanced UI with responsive design
 - Integrated REST APIs for dynamic data loading
 
-**Technologies Used:** React Hooks, REST, Material UI, localStorage, Netlify
+**Technologies Used:** React Hooks, REST, Material UI, Material UI Grid, Debouncing, localStorage, Netlify
 
 ---
 
 ### XBoard
-**Apr 2023**
+**July Aug 2023**
 
 XBoard is a news feed website featuring the latest news from Flipboard.
 
@@ -76,12 +76,12 @@ XBoard is a news feed website featuring the latest news from Flipboard.
 - Improved UI with Accordions and Image Carousel
 - Fetched news content from Flipboard's RSS feed via REST API
 
-**Technologies Used:** HTML, CSS, Bootstrap, JavaScript, Netlify
+**Technologies Used:** HTML, CSS, Bootstrap, Figma, REST, DOM Manipulation, JavaScript, Netlify
 
 ---
 
 ### QTripDynamic
-**Mar 2023**
+**June 2023**
 
 QTrip is a travel website for adventurers looking for various city adventures.
 
@@ -89,18 +89,18 @@ QTrip is a travel website for adventurers looking for various city adventures.
 - Enhanced UX with multi-select filters and image carousels
 - Used localStorage for client-side data persistence
 
-**Technologies Used:** HTML, CSS, JavaScript, Bootstrap, Netlify, Heroku
+**Technologies Used:** HTML, CSS, JavaScript, Bootstrap, Netlify
 
 ---
 
 ### QTripStatic
-**Feb - Mar 2023**
+**May 2023**
 
 QTrip is a travel website for adventurers looking for various city adventures.
 
 - Developed web pages from wireframe layouts using HTML and CSS
 - Utilized Bootstrap for responsive design
-- Deployed the website to Netlify/Vercel
+- Deployed the website to Netlify
 
 **Technologies Used:** HTML, CSS, Bootstrap, Netlify
 
