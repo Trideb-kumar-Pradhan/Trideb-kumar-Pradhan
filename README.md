@@ -1,11 +1,10 @@
 # Hello, I'm Trideb Kumar Pradhan 👋
 
-I'm a dedicated full stack developer with extensive experience in building dynamic web applications using modern technologies. I have a strong background in both front-end and back-end development, allowing me to create seamless and efficient user experiences.
+I'm a dedicated full stack developer with extensive experience in building dynamic web applications using modern technologies. Currently, I specialize as a Frontend Developer at ALOK INDUSTRIES SILVASSA, where I focus on creating seamless and efficient user experiences.
 
-- 🔭 I'm an Frontend Developer currently working at ALOK INDUSTRIES SILVASSA.
-- 👯 I’m looking to collaborate as a Full stack developer.
+🔭 Current Role: Frontend Developer
 
-## 🔧 Technical Skill
+## 🛠️ Technical Skills
 
 ### Front-End Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
