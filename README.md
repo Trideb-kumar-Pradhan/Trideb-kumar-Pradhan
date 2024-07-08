@@ -28,7 +28,7 @@ I'm a dedicated full stack developer with extensive experience in building dynam
 - 📫 How to reach me: [Your Email]
 - ⚡ Fun fact: [Something Interesting About You]
 
-## 🔧 Technologies & Tools
+## 🔧 Technical Skill
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -130,8 +130,9 @@ QTrip is a travel website for adventurers looking for various city adventures.
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/trideb-kumar-pradhan-619663231)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/[your-twitter-username])
-[![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome&logoColor=white)](https://[your-website-url]/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://[https://www.crio.do/learn/portfolio/tridebkumarp/?edit=true])
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:[tridebkumarp@gmail.com])
+
 
 
 
