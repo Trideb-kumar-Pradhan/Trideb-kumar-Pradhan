@@ -3,16 +3,6 @@
 Hi there, I'm Trideb kumar Pradhan 👋
 Welcome to my GitHub profile! I'm an SQA Engineer currently working at NVIDIA. I am a passionate full-stack software engineer from India and I have built many industry-grade projects from scratch and am armed with a wide range of technological skills useful for tech projects. Check out my projects below. 🙂
 
-
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 # Hello, I'm Trideb Kumar Pradhan 👋
 
 
@@ -121,17 +111,13 @@ QTrip is a travel website for adventurers looking for various city adventures.
 **Technologies Used:** HTML, CSS, Bootstrap, Netlify
 
 
-## 📝 Blog Posts
-
-- [Title of Blog Post 1](URL)
-- [Title of Blog Post 2](URL)
-- [Title of Blog Post 3](URL)
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/trideb-kumar-pradhan-619663231)
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://[https://www.crio.do/learn/portfolio/tridebkumarp/?edit=true])
-[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:[tridebkumarp@gmail.com])
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://www.crio.do/learn/portfolio/tridebkumarp/?edit=true)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:tridebkumarp@gmail.com)
+
 
 
 
