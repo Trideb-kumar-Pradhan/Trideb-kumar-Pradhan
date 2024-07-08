@@ -1,22 +1,13 @@
-## Hi there 👋
-
-Hi there, I'm Trideb kumar Pradhan 👋
-Welcome to my GitHub profile! I'm an SQA Engineer currently working at NVIDIA. I am a passionate full-stack software engineer from India and I have built many industry-grade projects from scratch and am armed with a wide range of technological skills useful for tech projects. Check out my projects below. 🙂
-
 # Hello, I'm Trideb Kumar Pradhan 👋
-
 
 
 ## About Me
 
 I'm a dedicated full stack developer with extensive experience in building dynamic web applications using modern technologies. I have a strong background in both front-end and back-end development, allowing me to create seamless and efficient user experiences.
 
-- 🔭 I’m currently working on [Your Current Project]
+- 🔭 I'm an Frontend Developer currently working at ALOK INDUSTRIES SILVASSA.
 - 🌱 I’m currently expanding my knowledge in [Technology or Skill You're Learning]
-- 👯 I’m looking to collaborate on [Your Collaboration Interests]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Something Interesting About You]
+- 👯 I’m looking to collaborate as a Full stack developer.
 
 ## 🔧 Technical Skill
 
@@ -37,12 +28,17 @@ I'm a dedicated full stack developer with extensive experience in building dynam
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 ### Technologies & Tools
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=api)
+
 
 
 ## 📚 My Projects
