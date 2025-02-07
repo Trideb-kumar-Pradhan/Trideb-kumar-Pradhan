@@ -1,6 +1,6 @@
 # Hello, I'm Trideb Kumar Pradhan 👋
 
-I'm a dedicated full stack developer with extensive experience in building dynamic web applications using modern technologies. Currently, I specialize as a FULLSTACK Developer at ALOK INDUSTRIES SILVASSA, where I focus on creating seamless and efficient user experiences.
+I'm a dedicated full stack developer with extensive experience in building dynamic web applications using modern technologies. Currently, I specialize as a Fullstack Developer at ALOK INDUSTRIES SILVASSA, where I focus on creating seamless and efficient user experiences.
 
 🔭 Current Role: Frontend Developer
 
