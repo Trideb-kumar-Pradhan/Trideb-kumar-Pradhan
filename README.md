@@ -47,7 +47,6 @@ I'm a dedicated full stack developer with extensive experience in building dynam
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/trideb-kumar-pradhan-619663231)
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://www.crio.do/learn/portfolio/tridebkumarp/?edit=true)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:tridebkumarp@gmail.com)
 
 
