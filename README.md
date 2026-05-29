@@ -1,65 +1,95 @@
-# Hello, I'm Trideb Kumar Pradhan 👋
+<div align="center">
 
-I'm a dedicated full stack developer with extensive experience in building dynamic web applications using modern technologies. Currently, I specialize as a Fullstack Developer at ALOK INDUSTRIES SILVASSA, where I focus on creating seamless and efficient user experiences.
+### Trideb Kumar Pradhan
+**Full Stack Developer** · React · Node.js · MongoDB · SQL
 
-🔭 Current Role: Frontend Developer
+*Building systems that scale — from pixel to production.*
 
-## 🛠️ Technical Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trideb-kumar-pradhan-619663231)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tridebkumarp@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=tridebkumarpradhan&style=flat-square&color=0A66C2)](https://github.com/tridebkumarpradhan)
 
-### Front-End Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&labelColor=black)
+</div>
 
+---
 
-### Back-End Development
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&labelColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
+## About
 
-### DevOps and Deployment
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black)
+3+ years building full-stack web applications — from data-heavy 
+dashboards and admin panels to REST APIs and the React UIs that 
+sit on top of them.
 
+I work across the whole stack and I'm comfortable on both ends. 
+Frontend means more than making things look right — it means 
+state that doesn't turn into spaghetti. Backend means more than 
+endpoints that return 200 — it means data models that hold up 
+under real load.
 
-### Technologies & Tools
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&labelColor=black)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&labelColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=api&labelColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black)
+Most of what I've built lives in operational and business 
+management platforms. Complex requirements, real users, 
+production pressure. That's where I've grown the most.
 
 
 
+## Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+
+**Tooling & Infra**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
 
 
 
+## Projects
 
-## 📫 Connect with Me
+### 🛒 [QKART](your-github-repo-link) — E-commerce Platform
+Full-stack shopping platform with advanced search, cart, authentication,
+and order tracking. Built the complete frontend and REST API backend.  
+`React` `Node.js` `Express` `MongoDB` `Material UI` `JWT` `Jest`
 
+### 🚗 [Vehicle Access Control](your-github-repo-link) — Tracking & Access System
+Secure vehicle registration system with QR code generation and barcode 
+scanning for entry/exit authentication with movement frequency controls.  
+`React` `Node.js` `Express` `MongoDB` `QRCode.react`
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/trideb-kumar-pradhan-619663231)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:tridebkumarp@gmail.com)
+## How I Work
 
+I've found that the best code usually comes from understanding the *why* before touching the keyboard. Most of the slowdowns I've seen come from building the right thing wrong, or the wrong thing well.
 
+I like working in teams where code review is taken seriously, where someone will push back on your abstraction if it's leaking complexity, and where "it works on my machine" is a punchline, not a release strategy.
 
+> Most of my work lives in private repositories.  
+> This profile reflects who I am, not where I commit.
 
+---
 
+<div align="center">
 
+*Open to interesting problems. Reach out.*
 
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trideb-kumar-pradhan-619663231)
 
-
-
-
-
-
-
-
+</div>
