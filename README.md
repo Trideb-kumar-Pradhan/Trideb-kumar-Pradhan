@@ -65,12 +65,12 @@ production pressure. That's where I've grown the most.
 
 ## Projects
 
-### 🛒 [QKART](your-github-repo-link) — E-commerce Platform
+### 🛒 [QKART](https://trideb-kart.netlify.app/) — E-commerce Platform
 Full-stack shopping platform with advanced search, cart, authentication,
 and order tracking. Built the complete frontend and REST API backend.  
 `React` `Node.js` `Express` `MongoDB` `Material UI` `JWT` `Jest`
 
-### 🚗 [Vehicle Access Control](your-github-repo-link) — Tracking & Access System
+### 🚗 [Vehicle Access Control](https://vscan-mu.vercel.app/) — Tracking & Access System
 Secure vehicle registration system with QR code generation and barcode 
 scanning for entry/exit authentication with movement frequency controls.  
 `React` `Node.js` `Express` `MongoDB` `QRCode.react`
